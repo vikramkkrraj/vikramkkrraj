@@ -37,13 +37,6 @@
 
 ---
 
-##  Featured Projects
-- **[MongoDB Aggregation Tutorial](https://github.com/vikramkkrraj/MongoDB-Aggregation-Tutorial)** – Forked tutorial exploring advanced MongoDB aggregation workflows. Great for data-heavy backend tasks!
-- **[Paint App – ReactJS](https://github.com/vikramkkrraj/Paint-App-Colour-Picker---ReactJS-How-React-Works-Building-a-First-Custom-Fun---ge0n8rs10ev8)** – A fun and interactive painting app built with ReactJS.
-- **[Portfolio.github.io](https://github.com/vikramkkrraj/Portfolio.github.io)** – Your personal portfolio template—clean, sleek, and ready to plug in your details.
-
-*(Swap in any other standout projects or add new ones you’re working on.)*
-
 ---
 
 ##  Connect With Me
@@ -51,7 +44,7 @@
   <a href="https://linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="vikramkrraj9876@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourusername">
